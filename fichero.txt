@@ -1,1 +1,2 @@
 Este es el contenido del archivo txt: fichero.txt
+Esta frase se añade a continuación de la anterior, hecha en la rama1
